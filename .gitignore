@@ -12,7 +12,7 @@
 ##       NOTE: TO STOP TRACKING A FILE AFTER IGNORING IT,                     #
 ##             USE THESE GIT COMMANDS:                                        #
 ##                                                                            #
-##             git rm --cached .                                              #
+##             git rm -r --cached .                                           #
 ##             git add .                                                      #
 ##             git commit -am "Remove ignored files"                          #
 ##                                                                            #
